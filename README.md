@@ -10,14 +10,19 @@ Website: <http://cavedig.plotgaming.hu>
 - [X] crafting
 - [ ] Menu rewrite
 - [ ] options menu
+  - [ ] language selector
+  - [ ] display settings
 - [X] world selection
-1. [ ] multiplayer
-    - [ ] server
-    - [ ] client
+- [ ] multiplayer
+  - [ ] server
+  - [ ] client
 
-1. [ ] entities
-    - [X] BlockEntity
-    - [ ] entity collosion
-    - [X] entity spawn
+- [ ] entities
+  - [X] BlockEntity
+  - [ ] entity collosion
+  - [X] entity spawn
 
-- [ ] player death
+- [ ] player
+  - [X] player movement
+  - [X] player block break/place
+  - [ ] player death
